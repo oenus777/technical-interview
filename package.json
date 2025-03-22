@@ -1,0 +1,15 @@
+{
+    "name": "technical-interview",
+    "version": "1.0.0",
+    "description": "",
+    "author": "oenus777",
+    "license": "MIT",
+
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/sample.js"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
